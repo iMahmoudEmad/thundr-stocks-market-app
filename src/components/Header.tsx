@@ -26,7 +26,7 @@ export const Header = ({
           <a href="/" className="flex h-full items-center gap-2 py-4">
             <img
               loading="lazy"
-              src="/src/assets/logo.svg"
+              src="assets/logo.svg"
               alt="Nasdaq logo"
               width={100}
               height={50}

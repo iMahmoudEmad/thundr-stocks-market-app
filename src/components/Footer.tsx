@@ -8,7 +8,7 @@ export const Footer = () => {
         target="_blank"
       >
         <img
-          src="/src/assets/thundr.svg"
+          src="assets/thundr.svg"
           alt="Thundr Logo"
           style={{
             borderRadius: "0.125rem",
