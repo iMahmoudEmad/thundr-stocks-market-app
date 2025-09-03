@@ -181,6 +181,6 @@ The codebase is organized for scalability and maintainability:
 
 ---
 
-**Developer:** [Your Name]  
-**Version:** 0.0.0  
+**Developer:** Mahmoud Emad Eldin  
+**Version:** 0.1.0  
 **License:** Private
